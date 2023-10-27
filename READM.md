@@ -1,6 +1,6 @@
 # Aula de Manipulação do DOM e Importação/Exportação de Módulos
 
-**Nesta aula, aprendemos a criar e manipular elementos no DOM (Document Object Model) usando JavaScript e a importar/exportar módulos para organizar nosso código.**
+**Nesta aula, ministrada pela professora juliana sinnott 🏳️‍🌈, aprendemos a criar e manipular elementos no DOM (Document Object Model) usando JavaScript e a importar/exportar módulos para organizar nosso código.**
 
 ## Conteúdo da Aula
 
@@ -17,7 +17,3 @@
 ## Exploração
 - O repositório contém exemplos práticos dos conceitos aprendidos na aula.
 - Use os arquivos fornecidos para entender como a manipulação do DOM e a organização do código funcionam.
-
-
-
-
